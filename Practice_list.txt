@@ -4,3 +4,5 @@ Apples
 mangoes
 Carrots
 Pineapples
+salad
+Oranges
