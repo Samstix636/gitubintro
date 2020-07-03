@@ -1,0 +1,6 @@
+list:
+
+Apples
+mangoes
+Carrots
+Pineapples
