@@ -7,3 +7,5 @@ Pineapples
 salad
 papers
 creams
+cereal
+milk
